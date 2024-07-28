@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "title": "The Mystical Journey",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/256450/pexels-photo-256450.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "title": "Knowledge Unleashed",
+        "price": 1200,
+        "category": "Non-fiction",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "title": "The Lost Kingdom",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "name": "Paulo Choelo",
+        "title": "The Alchemist",
+        "price": 1650,
+        "category": "Life",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 5,
+        "name": "Charlie Davis",
+        "title": "Science Wonders",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 6,
+        "name": "Daniel Lee",
+        "title": "World History",
+        "price": 1800,
+        "category": "History",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 7,
+        "name": "Emily Clark",
+        "title": "Culinary Delights",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 8,
+        "name": "Frank Moore",
+        "title": "Art of Life",
+        "price": 2000,
+        "category": "Art",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 9,
+        "name": "Grace Kim",
+        "title": "Travel Diaries",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 10,
+        "name": "Henry White",
+        "title": "Tech Innovations",
+        "price": 1999,
+        "category": "Technology",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 11,
+        "name": "Ivy Green",
+        "title": "Fitness Guide",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 12,
+        "name": "Jack Harris",
+        "title": "Business Secrets",
+        "price": 1500,
+        "category": "Business",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 13,
+        "name": "Karen Martinez",
+        "title": "Gardening Tips",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 14,
+        "name": "Larry Walker",
+        "title": "Music Theory",
+        "price": 1450,
+        "category": "Music",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 15,
+        "name": "Mary Robinson",
+        "title": "Pet Care",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 16,
+        "name": "Nathan Scott",
+        "title": "Financial Freedom",
+        "price": 1899,
+        "category": "Finance",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 17,
+        "name": "Olivia Adams",
+        "title": "Children's Stories",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 18,
+        "name": "Paul Nelson",
+        "title": "Poetry Collection",
+        "price": 1350,
+        "category": "Poetry",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 19,
+        "name": "Quincy Brown",
+        "title": "Photography Basics",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 20,
+        "name": "Rachel Young",
+        "title": "Home Improvement",
+        "price": 1725,
+        "category": "Home & Garden",
+        "image": "https://images.pexels.com/photos/904620/pexels-photo-904620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
